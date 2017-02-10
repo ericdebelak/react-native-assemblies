@@ -39,7 +39,7 @@ export const profileStyles = StyleSheet.create({
     marginVertical: 10,
   },
   logoutButton: {
-    position: 'absolute',
+    position: 'relative',
     left: 30,
   },
   logoutText: {
